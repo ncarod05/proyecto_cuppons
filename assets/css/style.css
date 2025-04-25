@@ -1,0 +1,18 @@
+.container-fluid{
+    background-color: #28a745;
+}
+
+.logo{
+    height: 25px;
+    margin-left: 25px;
+    margin-right: 79%;
+}
+
+.navbarNav{
+    text-align: right;
+}
+
+.card{
+    width: 20%;
+}
+
