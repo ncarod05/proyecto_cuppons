@@ -42,6 +42,10 @@ body{
     font-size: 27px;
 }
 
+.card-img-top{
+    height: 350px;
+}
+
 .card-body{
     color: #707070 !important;
 }
